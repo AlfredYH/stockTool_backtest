@@ -1,3 +1,7 @@
+####################################################
+############### Written by Claude ##################
+####################################################
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -526,3 +530,4 @@ def test_backtest_framework():
 if __name__ == "__main__":
     # 运行测试
     backtest = test_backtest_framework()
+
